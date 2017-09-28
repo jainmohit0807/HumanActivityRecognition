@@ -7,7 +7,7 @@ ds_test=pd.read_csv('test.csv')
 X=ds_train.iloc[:,:-1].values
 Y=ds_train.iloc[:,[-1]].values
 
-#Division Of Columns fot Testing
+#Division Of Columns for Testing
 x=ds_test.iloc[:,:-1].values
 y=ds_test.iloc[:,[-1]].values
 
