@@ -16,5 +16,6 @@ For each record in the dataset the following is provided:
 acceleration.</ul>
 <ul>Triaxial Angular velocity from the gyroscope.</ul><ul>A 561-feature vector with time and frequency domain variables.</ul><ul>Its activity labels.</ul><ul>An identifier of the subject who carried out the experiment.</ul>
 
-<b>Train.csv</b>https://goo.gl/q191J3
+<b>Train.csv file link</b>https://goo.gl/q191J3
+
 <b>Test.csv file link</b>https://goo.gl/q191J3
